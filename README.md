@@ -1,1 +1,22 @@
-# aulinhaParticular
+# BACK
+
+
+# FRONT
+
+# API
+
+# BD
+    -MYSQL
+
+
+# STACK
+    - JAVASCRIPT
+
+
+# FRAMEWORK
+NEXT.JS
+NEST.JS
+
+
+ANGULARJS FRONT
+LARAVEL BACK
