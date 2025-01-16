@@ -1,12 +1,13 @@
-$inicio = 0;
-$fim = 100;
-$limite = 20;
-$i = $inicio;
 
-while($i <= $fim){
-    if($limite < $fim){
-        $fim = $limite;
-    }
-        document.write($i + "</br>");
-        $i++;
+$limite = 20;
+$de = 0;
+$ate = 100;
+
+if(($ate-$de) > $limite){
+    $ate = $de + $limite;
+}
+
+for ($i = $de; $i <= $ate; $i++) {
+    document.write($i);
+    document.write('<br>');
 }
